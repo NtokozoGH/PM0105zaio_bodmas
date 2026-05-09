@@ -1,0 +1,45 @@
+1.1 - What is the precedence hierarchy in BODMAS?
+B – Brackets
+O – Orders (powers, roots, exponents)
+D – Division
+M – Multiplication
+A – Addition
+S – Subtraction
+
+
+1.2 - List two rules for writing unambiguous expressions.
+Follow the Order of BODMAS and use brackets properly because if you do not 
+you might get a different answer
+
+
+
+1.3 - What is the difference between BODMAS and PEMDAS?
+There is no difference between BODMAS and PEDMAS in terms of their operations or orders 
+the difference are the alphabets used and the countries which use each technique like UK and South Africa use BODMAS
+phrases while countries like USA use PEDMAS
+
+1.4 - Write the expression Z= (W + U)+(X + Y) in reverse polish notation.
+Z=WU+XY++
+
+1.5 - What does the expression (2 + 3) - 6 / 3 evaluate to?
+23+63/-
+2+3=5
+6/3=2
+5-2=3
+3 Final answer
+
+1.6 - Will the following two expressions have different results: (2+3)-6/3 and 2+3 - 6/3 
+Expression 1
+2+3=5
+6/3=2
+5-2=3
+3 Final answer
+
+AND
+
+second expression will start with division as we follow BODMAS and they are no orders :
+2+3 - 6/3
+6/3=2
+2+3=5
+5-2=3
+3 Final answer
